@@ -1,0 +1,30 @@
+[
+    {
+        "day": "Monday",
+        "meal": "Chicken Curry"
+    },
+    {
+        "day": "Tuesday",
+        "meal": "Stew"
+    },
+    {
+        "day": "Wednesday",
+        "meal": "Chips and burgers"
+    },
+    {
+        "day": "Thursday",
+        "meal": "Stroganoff"
+    },
+    {
+        "day": "Friday",
+        "meal": "Chicken Kiev"
+    },
+    {
+        "day": "Saturday",
+        "meal": "Pizza"
+    },
+    {
+        "day": "Sunday",
+        "meal": "Roast"
+    }
+]
